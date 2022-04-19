@@ -673,7 +673,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #8ed851;
+  color: #b00000;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -791,7 +791,7 @@ section {
   transition: 0.3s;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #8ed851;
+  color: #b00000;
 }
 .portfolio .portfolio-wrap:hover::before {
   opacity: 1;
