@@ -144,11 +144,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
-  border: 2px solid #5c9f24;
+  border: 2px solid #b00000;
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #5c9f24;
+  background: #b00000;
 }
 .navbar .getstarted:hover:before, .navbar li:hover > .getstarted:before {
   visibility: hidden;
